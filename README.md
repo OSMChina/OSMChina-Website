@@ -1,6 +1,6 @@
 ## 欢迎远方来客
 
-
+[![](https://wiki.openstreetmap.org/w/images/thumb/1/10/OpenStreetMap_PRC.svg/300px-OpenStreetMap_PRC.svg.png)](https://wiki.openstreetmap.org/wiki/Zh-hans:%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)
 
 ### 介绍
 
