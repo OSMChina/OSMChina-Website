@@ -8,6 +8,19 @@
 
 未来中国社区将逐渐完善，逐渐走向正轨。望与各国一道建设和谐优雅的OSM data
 
+### 开源项目
+
+说实话我们刚开始做基于社区的开源，也不是很有信心，目前拿得出手的东西确实不多，但是肯定会逐渐完善
+
+##### 地图自动编辑辅助工具
+
++ [Keqing_Sword](github.com/OSMChina/Keqing_Sword) 一个name:zh命名工具 leader:[Jyunhou](github.com/Jyunhou)
++ [未命名](github.com/OSMChina/未命名) 一个branch split工具 leader:[Jyunhou](github.com/Jyunhou)
+
+##### 社区工具
+
++ [Hyacinthus](github.com/OSMChina/Hyacinthus) leader:[快乐的老鼠宝宝](github.com/Laoshubaby)
+
 ### 联系我们
 
 t.me/osmchina
