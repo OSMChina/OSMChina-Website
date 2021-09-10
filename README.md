@@ -8,7 +8,7 @@
 
 未来中国社区将逐渐完善，逐渐走向正轨。望与各国一道建设和谐优雅的OSM data
 
-### 开源项目
+### 由OSMChina主导的开源项目
 
 说实话我们刚开始做基于社区的开源，也不是很有信心，目前拿得出手的东西确实不多，但是肯定会逐渐完善
 
@@ -20,6 +20,12 @@
 ##### 社区工具
 
 + [Hyacinthus](github.com/OSMChina/Hyacinthus) leader:[快乐的老鼠宝宝](github.com/Laoshubaby)
+
+### 其他中国开发者的OSM相关项目
+
++ **tracestrack**
+
+[<img src="https://laoshubaby.oss-cn-shanghai.aliyuncs.com/tracestrack.png" style="zoom: 50%;" />](https://apps.apple.com/cn/app/tracestrack-%E8%B8%AA%E8%BF%B9%E5%9C%B0%E5%9B%BE/id1015383536)
 
 ### 联系我们
 
