@@ -15,7 +15,7 @@
 ##### 地图自动编辑辅助工具
 
 + [Keqing_Sword](github.com/OSMChina/Keqing_Sword) 一个name:zh命名工具 leader:[Jyunhou](github.com/Jyunhou)
-+ [未命名](github.com/OSMChina/未命名) 一个branch split工具 leader:[Jyunhou](github.com/Jyunhou)
++ [Branch_Name_Splitter](github.com/OSMChina/Branch_Name_Splitter) 一个branch split工具 leader:[Jyunhou](github.com/Jyunhou)
 
 ##### 社区工具
 
