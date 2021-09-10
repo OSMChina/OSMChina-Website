@@ -14,23 +14,23 @@
 
 说实话我们刚开始做基于社区的开源，也不是很有信心，目前拿得出手的东西确实不多，但是肯定会逐渐完善
 
-#### [Keqing_Sword](github.com/OSMChina/Keqing_Sword) 
+#### [Keqing_Sword](https://github.com/OSMChina/Keqing_Sword) 
 
 + 项目定位：地图自动编辑辅助工具
 + 项目介绍：一个name:zh命名工具
-+ 社区Leader：[Jyunhou](github.com/Jyunhou)
++ 社区Leader：[Jyunhou](https://github.com/Jyunhou)
 
-#### [Branch_Name_Splitter](github.com/OSMChina/Branch_Name_Splitter) 
+#### [Branch_Name_Splitter](https://github.com/OSMChina/Branch_Name_Splitter) 
 
 + 项目定位：地图自动编辑辅助工具
 + 项目介绍：一个branch split工具
-+ 社区Leader：[Jyunhou](github.com/Jyunhou)
++ 社区Leader：[Jyunhou](https://github.com/Jyunhou)
 
-####[Hyacinthus](github.com/OSMChina/Hyacinthus)
+#### [Hyacinthus](https://github.com/OSMChina/Hyacinthus)
 
 + 项目定位：社区管理工具
 + 项目介绍：一个基于任务发布机制的管理平台
-+ 社区Leader：[快乐的老鼠宝宝](github.com/Laoshubaby)
++ 社区Leader：[快乐的老鼠宝宝](https://github.com/Laoshubaby)
 
 ### 其他中国开发者的开源项目
 
