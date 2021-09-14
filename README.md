@@ -45,7 +45,7 @@
 #### [react-localize-osm](https://github.com/tracestrack/react-localize-osm)
 
 + 项目隶属：[tracestrack.com](https://github.com/tracestrack)
-+ 项目定位：tracestrack网页端
++ 项目定位：tracestrack本地化工具
 + 项目介绍：Online version of Traces app, showing where you've been. 
 + 社区Leader：[Qing Cai](https://github.com/strongwillow)
 您可在[localize.osm.tracestrack.com](https://localize.osm.tracestrack.com/)体验本项目
@@ -53,11 +53,12 @@
 #### [Tracestrack-iOS](https://github.com/tracestrack/Tracestrack-iOS)
 
 + 项目隶属：[tracestrack.com](https://github.com/tracestrack)
-+ 项目定位：tracestrack网页端
++ 项目定位：tracestrack iOS APP
 + 项目介绍：Issues tracker for Tracestrack iOS
 + 社区Leader：[Qing Cai](https://github.com/strongwillow)
 您可在Apple软件商店下载本应用
 [<img src="https://laoshubaby.oss-cn-shanghai.aliyuncs.com/tracestrack.png" style="zoom: 30%;" />](https://apps.apple.com/cn/app/tracestrack-%E8%B8%AA%E8%BF%B9%E5%9C%B0%E5%9B%BE/id1015383536)
++ OSM Wiki：[Tracestrack](https://wiki.openstreetmap.org/wiki/Tracestrack)
 
 
 ## 联系我们
