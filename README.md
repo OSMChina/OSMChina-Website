@@ -8,6 +8,14 @@
 
 未来中国社区将逐渐完善，逐渐走向正轨。望与各国一道建设和谐优雅的OSM data
 
+我们在OSM Wiki上的页面为 [wiki.openstreetmap.org/wiki/Zh-hans:中华人民共和国](https://wiki.openstreetmap.org/wiki/Zh-hans:中华人民共和国)
+
+## 绘图计划
+
+目前尚没有明确的绘图任务，我们将考虑在[HOT OSM](https://www.hotosm.org/)上建立一个组织，在需要动员的时候通过HOT来发布一部分为受灾区域的任务。
+
+对于日常的数据维护，我们将考虑在Hyacinthus上发布。如某地出现数据的破坏者，或某县城有爱好者大量使用不规范标注，或某事某物建设开工完成之类的大进展，将依靠工单机制推动。
+
 ## 开源
 
 ### 由OSMChina主导的开源项目
