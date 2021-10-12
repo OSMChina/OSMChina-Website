@@ -2,6 +2,11 @@
 
 [![](https://wiki.openstreetmap.org/w/images/thumb/1/10/OpenStreetMap_PRC.svg/300px-OpenStreetMap_PRC.svg.png)](https://wiki.openstreetmap.org/wiki/Zh-hans:%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)
 
+## 导航
+
+| [团队](/pages/team/team_overview.md) | [开源](/pages/open_source/os_overview.md) | [服务器状态](/pages/server/server_overview.md) |
+| ---- | ---- | ---------- |
+
 ## 介绍
 
 我们在OSM Wiki上的页面为 [wiki.openstreetmap.org/wiki/Zh-hans:中华人民共和国](https://wiki.openstreetmap.org/wiki/Zh-hans:中华人民共和国)
@@ -23,25 +28,12 @@
 
 对于日常的数据维护，我们将考虑在Hyacinthus上发布。如某地出现数据的破坏者，或某县城有爱好者大量使用不规范标注，或某事某物建设开工完成之类的大进展，将依靠工单机制推动。
 
-## 团队
-
-目前我们计划分为如下几个团队
-
-详情可[点击](/pages/team/team_overview.md)
-
-## 开源
-
-目前我们有以下开源项目
-
-详情可[点击](/pages/open_source/os_overview.md)
-
-## 服务器状态
-
-我们的服务器状态可以在这里查看
-
-详情可[点击](/pages/server/server_overview.md)
-
-
 ## 联系我们
 
-[t.me/osmchina](t.me/osmchina)
+* Telegram: [t.me/osmchina](https://t.me/osmchina)
+* GitHub: [github.com/OSMChina](https://github.com/OSMChina)
+* Weibo: None
+* Twitter: None
+* Facebook: None
+* Youtube: None
+* Email: 搭建中
