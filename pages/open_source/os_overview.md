@@ -6,6 +6,9 @@
 
 #### [Keqing_Sword](https://github.com/OSMChina/Keqing_Sword) 
 
+ [![](https://img.shields.io/github/stars/OSMChina/Keqing_sword.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=OSMChina)](https://github.com/OSMChina/Keqing_sword/stargazers)  [![](https://img.shields.io/github/forks/OSMChina/Keqing_sword.svg?style=flat-square&logo=github&logoWidth=20&label=Forks&labelColor=ce1126&color=fcd116&message=OSMChina)](https://github.com/OSMChina/Keqing_sword/network/members)
+
+
 + 项目定位：地图自动编辑辅助工具
 + 项目介绍：一个name:zh命名工具
 + 社区Leader：[Jyunhou](https://github.com/Jyunhou)
