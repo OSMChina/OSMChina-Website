@@ -4,9 +4,7 @@
 
 说实话我们刚开始做基于社区的开源，也不是很有信心，目前拿得出手的东西确实不多，但是肯定会逐渐完善
 
-#### [Keqing_Sword](https://github.com/OSMChina/Keqing_Sword) 
-
- [![](https://img.shields.io/github/stars/OSMChina/Keqing_sword.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=OSMChina)](https://github.com/OSMChina/Keqing_sword/stargazers)  [![](https://img.shields.io/github/forks/OSMChina/Keqing_sword.svg?style=flat-square&logo=github&logoWidth=20&label=Forks&labelColor=ce1126&color=fcd116&message=OSMChina)](https://github.com/OSMChina/Keqing_sword/network/members)
+#### [Keqing_Sword](https://github.com/OSMChina/Keqing_Sword)    [![](https://img.shields.io/github/stars/OSMChina/Keqing_sword.svg?style=flat-square&label=Stars&labelColor=ce1126&color=fcd116&message=OSMChina)](https://github.com/OSMChina/Keqing_sword/stargazers)  [![](https://img.shields.io/github/forks/OSMChina/Keqing_sword.svg?style=flat-square&label=Forks&labelColor=ce1126&color=fcd116&message=OSMChina)](https://github.com/OSMChina/Keqing_sword/network/members)  [![](https://img.shields.io/github/watchers/OSMChina/Keqing_sword.svg?style=flat-square&label=Watchers&labelColor=ce1126&color=fcd116&message=OSMChina)](https://github.com/OSMChina/Keqing_Sword/watchers)
 
 
 + 项目定位：地图自动编辑辅助工具
