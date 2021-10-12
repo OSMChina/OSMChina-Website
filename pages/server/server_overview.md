@@ -4,7 +4,7 @@
 
 目前我们存在 **```1```** 台服务器
 
-azhdaha.server.osmchina.org
+[azhdaha.server.osmchina.org](azhdaha.server.osmchina.org)
 
 该服务器的角色为：map，tile
 
@@ -15,6 +15,10 @@ azhdaha.server.osmchina.org
 osmchina.github.io
 
 该服务器的角色为：主页
+
+## CDN和DNS
+
+感谢Cloudflare提供的免费计划
 
 ## 未来计划
 

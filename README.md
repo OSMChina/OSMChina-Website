@@ -1,6 +1,8 @@
 # 欢迎远方来客
 
-[![](https://wiki.openstreetmap.org/w/images/thumb/1/10/OpenStreetMap_PRC.svg/300px-OpenStreetMap_PRC.svg.png)](https://wiki.openstreetmap.org/wiki/Zh-hans:%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)
+<!-- [![](https://wiki.openstreetmap.org/w/images/thumb/1/10/OpenStreetMap_PRC.svg/300px-OpenStreetMap_PRC.svg.png)](https://wiki.openstreetmap.org/wiki/Zh-hans:%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD) -->
+
+<a href="https://wiki.openstreetmap.org/wiki/Zh-hans:中华人民共和国"><img src="https://wiki.openstreetmap.org/w/images/thumb/1/10/OpenStreetMap_PRC.svg/300px-OpenStreetMap_PRC.svg.png" alt="OSMChina 欢迎远道来客"></a>
 
 ## 导航
 

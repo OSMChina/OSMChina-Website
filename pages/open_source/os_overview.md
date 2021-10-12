@@ -4,7 +4,7 @@
 
 说实话我们刚开始做基于社区的开源，也不是很有信心，目前拿得出手的东西确实不多，但是肯定会逐渐完善
 
-#### [Keqing_Sword](https://github.com/OSMChina/Keqing_Sword)    [![](https://img.shields.io/github/stars/OSMChina/Keqing_sword.svg?style=flat-square&label=Stars&labelColor=ce1126&color=fcd116&message=OSMChina)](https://github.com/OSMChina/Keqing_sword/stargazers)  [![](https://img.shields.io/github/forks/OSMChina/Keqing_sword.svg?style=flat-square&label=Forks&labelColor=ce1126&color=fcd116&message=OSMChina)](https://github.com/OSMChina/Keqing_sword/network/members)  [![](https://img.shields.io/github/watchers/OSMChina/Keqing_sword.svg?style=flat-square&label=Watchers&labelColor=ce1126&color=fcd116&message=OSMChina)](https://github.com/OSMChina/Keqing_Sword/watchers)
+#### [Keqing_Sword](https://github.com/OSMChina/Keqing_Sword)    [![](https://img.shields.io/github/stars/OSMChina/Keqing_Sword.svg?style=flat-square&label=Stars&labelColor=ce1126&color=fcd116&message=OSMChina)](https://github.com/OSMChina/Keqing_Sword/stargazers)  [![](https://img.shields.io/github/forks/OSMChina/Keqing_Sword.svg?style=flat-square&label=Forks&labelColor=ce1126&color=fcd116&message=OSMChina)](https://github.com/OSMChina/Keqing_Sword/network/members)  [![](https://img.shields.io/github/watchers/OSMChina/Keqing_Sword.svg?style=flat-square&label=Watchers&labelColor=ce1126&color=fcd116&message=OSMChina)](https://github.com/OSMChina/Keqing_Sword/watchers)
 
 
 + 项目定位：地图自动编辑辅助工具
@@ -48,5 +48,6 @@
 + 项目介绍：Issues tracker for Tracestrack iOS
 + 社区Leader：[Qing Cai](https://github.com/strongwillow)
 您可在Apple软件商店下载本应用
-[<img src="https://laoshubaby.oss-cn-shanghai.aliyuncs.com/tracestrack.png" style="zoom: 30%;" />](https://apps.apple.com/cn/app/tracestrack-%E8%B8%AA%E8%BF%B9%E5%9C%B0%E5%9B%BE/id1015383536)
+[<img src="https://laoshubaby.oss-cn-shanghai.aliyuncs.com/tracestrack.png" style="height: 220px;" />](https://apps.apple.com/cn/app/tracestrack-%E8%B8%AA%E8%BF%B9%E5%9C%B0%E5%9B%BE/id1015383536)
 + OSM Wiki：[Tracestrack](https://wiki.openstreetmap.org/wiki/Tracestrack)
+
