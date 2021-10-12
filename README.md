@@ -35,6 +35,12 @@
 
 详情可[点击](/pages/open_source/os_overview.md)
 
+## 服务器状态
+
+我们的服务器状态可以在这里查看
+
+详情可[点击](/pages/server/server_overview.md)
+
 
 ## 联系我们
 
