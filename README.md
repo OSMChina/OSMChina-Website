@@ -20,6 +20,11 @@
 
 ## 板块
 
+```
+注意：目前的地图服务和瓦片服务所在服务器负载较高，不建议您访问缩放等级10以上的瓦片
+WARN：Current tile server have a heavy load, we don't suggest you reach tiles that larger than zoom level 10
+```
+
 + 要访问我们的主页，直接输入[osmchina.org](https://osmchina.org)或[www.osmchina.org](https://www.osmchina.org)，他们都将以CNAME的方式将您重定向到osmchina.github.io这个静态网站。这是我们的主页
 + 要访问我们的实验性地图服务（随时不稳定），请移步：[map.osmchina.org](https://map.osmchina.org)
 + 要访问我们的瓦片服务，您可直接将OSM官方瓦片地址中的openstreetmap替换为osmchina即可。此外，对tile和tiles的词义我们不做区分，以相同方式处理，做到尽可能高的容错。
@@ -40,25 +45,3 @@
 * Facebook: None
 * Youtube: None
 * Email: 搭建中
-
-<h2>
-<span class="mw-headline" id=".E4.BA.A4.E6.B5.81.E7.BE.A4.E7.BB.84">
-交流群组
-</span>
-<span class="mw-editsection">
-<span class="mw-editsection-bracket">
-[</span>
-<!--<a href="/w/index.php?title=China/Transport/Buses&amp;veaction=edit&amp;section=27" class="mw-editsection-visualeditor" title="编辑章节：交流群组">
-编辑
-</a>-->
-<span class="mw-editsection-divider">
- | 
-</span>
-<!--<a href="/w/index.php?title=China/Transport/Buses&amp;action=edit&amp;section=27" title="编辑章节：交流群组">
-编辑源代码
-</a>-->
-<span class="mw-editsection-bracket">
-]
-</span>
-</span>
-</h2>
