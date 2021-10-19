@@ -40,3 +40,25 @@
 * Facebook: None
 * Youtube: None
 * Email: 搭建中
+
+<h2>
+<span class="mw-headline" id=".E4.BA.A4.E6.B5.81.E7.BE.A4.E7.BB.84">
+交流群组
+</span>
+<span class="mw-editsection">
+<span class="mw-editsection-bracket">
+[</span>
+<!--<a href="/w/index.php?title=China/Transport/Buses&amp;veaction=edit&amp;section=27" class="mw-editsection-visualeditor" title="编辑章节：交流群组">
+编辑
+</a>-->
+<span class="mw-editsection-divider">
+ | 
+</span>
+<!--<a href="/w/index.php?title=China/Transport/Buses&amp;action=edit&amp;section=27" title="编辑章节：交流群组">
+编辑源代码
+</a>-->
+<span class="mw-editsection-bracket">
+]
+</span>
+</span>
+</h2>
