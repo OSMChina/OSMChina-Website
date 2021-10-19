@@ -10,15 +10,26 @@
 
 ### 各个国家或地区的社区
 
-
+* openstreetmap.de
+* openstreetmap.fr
+* openstreetmap.in
+* osm.kr
+* osm.tw
 
 ### 基于OSM的其他子领域地图
 
-
+* openrailwaymap.org
+* openhistoricalmap.org
+* openseamap.org
+* opengeofictionmap.org
 
 ### OSM相关工具和开源项目
 
-
+* osmcha.org
+* github.com/osmlab/name-suggestion-index
+* overpass-turbo.eu
 
 ### OSM数据镜像与下载
 
+* geofarbic.org
+* overpass.org
