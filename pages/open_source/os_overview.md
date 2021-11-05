@@ -27,6 +27,10 @@
 + 项目介绍：一个基于任务发布机制的管理平台
 + 社区Leader：[快乐的老鼠宝宝](https://github.com/Laoshubaby)
 
+#### 瓦片切换器
+
+http://openwhatevermap.xyz 内有的，和tracestrack，jawg，OSMC自有
+
 ### 其他中国开发者的开源项目
 
 #### [react-tracestrack](https://github.com/tracestrack/react-tracestrack)
