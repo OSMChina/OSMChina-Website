@@ -4,19 +4,14 @@
 
 目前我们存在 **```2```** 台服务器
 
-[azhdaha.server.osmchina.org](azhdaha.server.osmchina.org)
-
-原有的IP为39.104.19.62的服务器因到期无法续费（将在2021年内结束服务），改名为pixiu.server.osmchina.org
-
-之后的各项服务将逐步迁移到新服务器上。
-
-该服务器的角色为：map，tile
++ [azhdaha.server.osmchina.org](azhdaha.server.osmchina.org) (角色：map、tile)
++ [pixiu.server.osmchina.org](pixiu.server.osmchina.org) (角色：map、tile，将于本月底停止服务)
 
 ## Serverless服务
 
 目前我们存在 **```1```** 台Serverless服务
 
-osmchina.github.io
++ [osmchina.github.io](osmchina.github.io)
 
 该服务器的角色为：主页
 

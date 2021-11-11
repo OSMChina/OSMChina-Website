@@ -6,9 +6,9 @@
 
 ## 导航
 
-| [团队](/pages/team/team_overview.md) | [开源](/pages/open_source/os_overview.md) | [服务器状态](/pages/server/server_overview.md) | [捐赠我们](/pages/about_us/donate.md) |
+| [团队](/pages/team/team_overview.md) | [开源](/pages/open_source/os_overview.md) | [服务器状态](/pages/hardware/hardware_overview.md) | [捐赠我们](/pages/about_us/donate.md) |
 | ---- | ---- | ---------- | ---------- |
-| 4个团队 | 3个项目 | 1台VPS（正常运行） | 暂未开通 |
+| 4个团队 | 3个项目 | 2台VPS（正常运行） | 暂未开通 |
 
 ## 介绍
 
