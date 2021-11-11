@@ -2,9 +2,13 @@
 
 ## 服务器
 
-目前我们存在 **```1```** 台服务器
+目前我们存在 **```2```** 台服务器
 
 [azhdaha.server.osmchina.org](azhdaha.server.osmchina.org)
+
+原有的IP为39.104.19.62的服务器因到期无法续费（将在2021年内结束服务），改名为pixiu.server.osmchina.org
+
+之后的各项服务将逐步迁移到新服务器上。
 
 该服务器的角色为：map，tile
 
