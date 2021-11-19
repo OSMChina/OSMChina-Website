@@ -25,7 +25,7 @@
 > WARN：Current tile server have a heavy load
 
 + 要访问我们的主页，直接输入[osmchina.org](https://osmchina.org)或[www.osmchina.org](https://www.osmchina.org)，他们都将以CNAME的方式将您重定向到osmchina.github.io这个静态网站。这是我们的主页。
-+ 要访问我们的实验性地图服务（随时不稳定），请移步：[map.osmchina.org](https://map.osmchina.org)。若不能访问，Tracestrack为社群提供了无偿的[中文瓦片服务](https://map.osmchina.org/index_tracestrack_zh.html)，底图与[Tracestrack主站](https://maps.tracestrack.com/)相同，语言为简体中文优先。
++ 要访问我们的实验性地图服务（随时不稳定），请移步：[map.osmchina.org](http://81.69.30.221/)。若不能访问，Tracestrack为社群提供了无偿的[中文瓦片服务](https://map.osmchina.org/index_tracestrack_zh.html)，底图与[Tracestrack主站](https://maps.tracestrack.com/)相同，语言为简体中文优先。
 + 要访问我们的瓦片服务，您可直接将OSM官方瓦片地址中的openstreetmap替换为osmchina即可。此外，对tile和tiles的词义我们不做区分，以相同方式处理，做到尽可能高的容错。
 + 未来还会上线更多内容，还望持续关注
 
