@@ -2,10 +2,9 @@
 
 ## 服务器
 
-目前我们存在 **```2```** 台服务器
+目前我们存在 **```1```** 台服务器
 
 + [azhdaha.server.osmchina.org](azhdaha.server.osmchina.org) (角色：map、tile)
-+ [pixiu.server.osmchina.org](pixiu.server.osmchina.org) (角色：map、tile，将于本月底停止服务)
 
 ## Serverless服务
 
