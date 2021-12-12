@@ -37,8 +37,9 @@
 
 * Telegram: [t.me/osmchina](https://t.me/osmchina)
 * GitHub: [github.com/OSMChina](https://github.com/OSMChina)
+* Email: [admin@osmchina.org](mailto:admin@osmchina.org)
 * Weibo: None
 * Twitter: None
 * Facebook: None
 * Youtube: None
-* Email: 搭建中
+
