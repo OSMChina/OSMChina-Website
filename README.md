@@ -1,8 +1,10 @@
 # 欢迎远方来客
 
-<!-- [![](https://wiki.openstreetmap.org/w/images/thumb/1/10/OpenStreetMap_PRC.svg/300px-OpenStreetMap_PRC.svg.png)](https://wiki.openstreetmap.org/wiki/Zh-hans:%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD) -->
+<a href="https://wiki.openstreetmap.org/wiki/Zh-hans:中华人民共和国"><img src="https://wiki.openstreetmap.org/w/images/thumb/1/10/OpenStreetMap_PRC.svg/300px-OpenStreetMap_PRC.svg.png" alt="OSMChina 欢迎远道来客" width=100px></a>
 
-<a href="https://wiki.openstreetmap.org/wiki/Zh-hans:中华人民共和国"><img src="https://wiki.openstreetmap.org/w/images/thumb/1/10/OpenStreetMap_PRC.svg/300px-OpenStreetMap_PRC.svg.png" alt="OSMChina 欢迎远道来客"></a>
+> **受中国域名备案制度影响，我们的地图服务暂时停止提供一段时间。近期仅能通过IP接入访问。**
+> 
+> **Affected by the domain enrollment system of the People’s Republic of China, our map service is temporarily suspended for a period of time. Now it only can be use with IP.**
 
 ## 导航
 
@@ -19,10 +21,6 @@
 中国社区将逐渐完善，逐渐走向正轨。望与各国一道建设和谐优雅的OSM
 
 ## 板块
-
-> <p color=red>受中国域名备案制度影响，我们的地图服务暂时停止提供一段时间。近期仅能通过IP接入访问。</p>
-> 
-> Affected by the domain enrollment system of the People’s Republic of China, our map service is temporarily suspended for a period of time. Now it only can be use with IP.
 
 + 要访问我们的主页，直接输入[osmchina.org](https://osmchina.org)或[www.osmchina.org](https://www.osmchina.org)，他们都将以CNAME的方式将您重定向到osmchina.github.io这个静态网站。这是我们的主页。
 + 要访问我们的地图服务，请移步：<s>[map.osmchina.org](http://81.69.30.221)</s> [81.69.30.221](http://81.69.30.221)。
