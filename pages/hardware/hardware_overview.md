@@ -2,15 +2,14 @@
 
 ## 服务器
 
-目前我们存在 **```1```** 台服务器
-
-+ [azhdaha.server.osmchina.org](azhdaha.server.osmchina.org) (角色：map、tile)
+目前我们存在 **```0```** 台服务器
 
 ## Serverless服务
 
-目前我们存在 **```1```** 台Serverless服务
+目前我们存在 **```2```** 台Serverless服务
 
 + [osmchina.github.io](osmchina.github.io)
++ [osmchina.github.io/OSMChina-NextOSM](osmchina.github.io/OSMChina-NextOSM)
 
 该服务器的角色为：主页
 
