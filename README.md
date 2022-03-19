@@ -7,7 +7,7 @@
 
 ## 导航
 
-| [团队](/pages/team/team_overview.md) | [开源](/pages/open_source/os_overview.md) | [服务器状态](/pages/hardware/hardware_overview.md) | [捐赠我们](/pages/about_us/donate.md) |
+| [团队](/pages/team/team_overview.md) | [开源](/pages/foss/foss_overview.md) | [服务器状态](/pages/hardware/hardware_overview.md) | [捐赠我们](/pages/about_us/donate.md) |
 | ---- | ---- | ---------- | ---------- |
 | 4个团队 | 3个项目 | **0**台VPS | 暂未开通 |
 
@@ -43,7 +43,6 @@
 * Twitter: None
 * Facebook: None
 * Youtube: None
-* Email: 搭建中
 
 ## FOSSA License Status
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOSMChina%2FOSMChina-Website.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOSMChina%2FOSMChina-Website?ref=badge_shield)<br/>
