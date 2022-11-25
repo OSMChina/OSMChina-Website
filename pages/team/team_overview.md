@@ -23,3 +23,25 @@
 
 职责：维护社群的活跃和成员管理，建群方便沟通
 临时负责人：TG频道的所有管理员都承担这一职责
+
+---
+
+关于本地化
+
+### 本地化资源
+
+#### 社区类平台 / COMMUNITY
+
+* WeeklyOSM
+
+翻译状态：weeklyosm.eu/cn
+长期翻译：Terry\LaoshuBaby\Qing Cai\Lepuse
+
+#### 外部开源基础设施
+
+* Unicode-cldr
+
+#### 译名表
+
+* wiki.osm.org/wiki/Zh-hans:术语表
+* wiki.osm.org/wiki/Zh-hans:译名列表
