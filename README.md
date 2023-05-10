@@ -17,7 +17,9 @@
 
 目前我们暂时采用Github Pages的形式来进行页面生成，未来会考虑由专机托管主页。
 
-中国社区将逐渐完善，逐渐走向正轨。望与各国一道建设和谐优雅的OSM
+中国社区将逐渐完善，逐渐走向正轨。望与各国一道建设和谐优雅的OSM。
+
+感谢[新用户欢迎平台](https://github.com/osmbe/osm-welcome-tool)的支持，您亦可查看欢迎信的[本地存档](/pages/welcome/welcome_letter.md)。
 
 ## 板块
 
@@ -32,15 +34,16 @@
 
 对于日常的数据维护，我们将考虑在Hyacinthus上发布。如某地出现数据的破坏者，或某县城有爱好者大量使用不规范标注，或某事某物建设开工完成之类的大进展，将依靠工单机制推动。
 
-此外，[WeeklyOSM简体中文](weeklyosm.eu/cn/)部分的翻译团队大多来自OSMChina。其他我们参与过的翻译项目可参考[OSMChina/OSMChina-Localization](https://github.com/OSMChina/OSMChina-Localization/)
+此外，[WeeklyOSM简体中文](weeklyosm.eu/cn/)部分的翻译团队大多来自OSMChina。
 
 ## 联系我们
 
 * Telegram: [t.me/osmchina](https://t.me/osmchina)
 * GitHub: [github.com/OSMChina](https://github.com/OSMChina)
 * Email: [admin@osmchina.org](mailto:admin@osmchina.org)
-* Weibo: None
+* Martix: [#osmchina:matrix.org](https://matrix.to/#/#osmchina:matrix.org)
 * Twitter: [@OSMChina](https://twitter.com/osmchina)
+* Weibo: None
 * Facebook: None
 * Youtube: None
 
