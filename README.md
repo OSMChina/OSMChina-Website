@@ -1,9 +1,10 @@
 # 欢迎远方来客
 <a href="https://wiki.openstreetmap.org/wiki/Zh-hans:中华人民共和国"><img src="https://wiki.openstreetmap.org/w/images/thumb/1/10/OpenStreetMap_PRC.svg/300px-OpenStreetMap_PRC.svg.png" alt="OSMChina 欢迎远道来客" width=100px></a>
 
-## 警告：OpenStreetMap服务已无法在国内正常使用，请勿进行非法活动！！！
+## 警告
 
-OpenStreetMap got blocked in China. **DO NOT DO ILLEGAL ACTIONS!!!**
+OpenStreetMap服务已无法在国内正常使用，**请勿进行非法活动！！！**
+OpenStreetMap has blocked in China. **DO NOT DO ILLEGAL ACTIONS!!!**
 
 > **受中国域名备案制度影响，我们的地图服务暂时停止提供一段时间。近期仅能通过IP接入访问。**
 > 
