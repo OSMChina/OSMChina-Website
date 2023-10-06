@@ -3,8 +3,8 @@
 
 ## 警告
 
-OpenStreetMap服务已无法在国内正常使用，**请勿进行非法活动！！！**
-OpenStreetMap has blocked in China. **DO NOT DO ILLEGAL ACTIONS!!!**
+OpenStreetMap服务已无法在国内正常使用，**请勿进行非法活动！！！**<br>
+OpenStreetMap got blocked in China. **DO NOT DO ILLEGAL ACTIONS!!!**
 
 > **受中国域名备案制度影响，我们的地图服务暂时停止提供一段时间。近期仅能通过IP接入访问。**
 > 
