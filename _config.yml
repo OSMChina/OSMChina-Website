@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 favicon: favicon.ico
 logo: favicon.ico
+
+url: "https://osmchina.org" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
