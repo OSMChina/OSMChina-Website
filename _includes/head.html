@@ -1,1 +1,18 @@
-<!-- Icons --><link rel="shortcut icon"  type="image/x-icon" href="/favicon.ico">
+<style>
+    .grayscale {
+        filter: grayscale(100%);
+    }
+</style>
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const mourningStartDate = new Date(2023, 10, 27); // 哀悼开始日期，例如2023年10月27日
+        const mourningEndDate = new Date(2023, 11, 3); // 哀悼结束日期，例如2023年11月3日
+        const today = new Date();
+        if (today.setHours(0, 0, 0, 0) >= mourningStartDate.setHours(0, 0, 0, 0) &&
+            today.setHours(0, 0, 0, 0) <= mourningEndDate.setHours(0, 0, 0, 0)) {
+            document.body.classList.add('grayscale');
+        }
+    });
+</script>
+<!-- Icons -->
+<link rel="shortcut icon" type="image/x-icon" href="https://osmchina.oss-cn-beijing.aliyuncs.com/favicon_black.ico">
