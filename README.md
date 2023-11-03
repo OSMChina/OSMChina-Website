@@ -1,22 +1,5 @@
-<style>
-    .grayscale {
-        filter: grayscale(100%);
-    }
-</style>
-<script>
-    document.addEventListener("DOMContentLoaded", () => {
-        const mourningStartDate = new Date(2023, 10, 27); // 哀悼开始日期，例如2023年10月27日
-        const mourningEndDate = new Date(2023, 11, 3); // 哀悼结束日期，例如2023年11月3日
-        const today = new Date();
-        if (today.setHours(0, 0, 0, 0) >= mourningStartDate.setHours(0, 0, 0, 0) &&
-            today.setHours(0, 0, 0, 0) <= mourningEndDate.setHours(0, 0, 0, 0)) {
-            document.body.classList.add('grayscale');
-        }
-    });
-</script>
-
 # 欢迎远方来客
-<a href="https://wiki.openstreetmap.org/wiki/Zh-hans:中华人民共和国"><img src="https://osmchina.oss-cn-beijing.aliyuncs.com/OpenStreetMap_PRC_WHITE_LITE_BAW.jpg" alt="OSMChina 欢迎远道来客" width=100px></a>
+<a href="https://wiki.openstreetmap.org/wiki/Zh-hans:中华人民共和国"><img src="https://wiki.openstreetmap.org/w/images/thumb/1/10/OpenStreetMap_PRC.svg/300px-OpenStreetMap_PRC.svg.png" alt="OSMChina 欢迎远道来客" width=100px></a>
 
 > **受中国域名备案制度影响，我们的地图服务暂时停止提供一段时间。近期仅能通过IP接入访问。**
 > 
