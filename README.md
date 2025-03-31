@@ -5,11 +5,17 @@
 > 
 > **According to relevant laws and regulations in People’s Republic of China, map service is temporarily suspended. **
 
+<!--
 ## 导航
 
-| [团队](/pages/team/team_overview.md) | [开源](/pages/foss/foss_overview.md) | [服务器状态](/pages/hardware/hardware_overview.md) | [捐赠我们](/pages/about_us/donate.md) |
+| [团队](/pages/team/team_overview.md) | [开源](/pages/foss/overview.md) | [服务器状态](/pages/hardware/hardware_overview.md) | [捐赠我们](/pages/about_us/donate.md) |
 | ---- | ---- | ---------- | ---------- |
 | **0**个活跃团队 | **0**个活跃项目 | **0**台在线VPS | 从未开通 |
+-->
+
+## OSPP
+
+关于OSPP相关内容和历届参与的项目介绍，可见[OSPP专题页面](/pages/foss/ospp.md)。
 
 ## 介绍
 
