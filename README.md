@@ -1,10 +1,12 @@
 # 欢迎远方来客
+
 <a href="https://wiki.openstreetmap.org/wiki/Zh-hans:中华人民共和国"><img src="https://wiki.openstreetmap.org/w/images/thumb/1/10/OpenStreetMap_PRC.svg/300px-OpenStreetMap_PRC.svg.png" alt="OSMChina 欢迎远道来客" width=100px></a>
 
 > **依照中国大陆相关法律法规，地图服务暂时停止提供。**
 > 
 > **According to relevant laws and regulations in People’s Republic of China, map service is temporarily suspended. **
 
+![](https://osmchina.oss-accelerate.aliyuncs.com/static/probe.jpg)
 <!--
 ## 导航
 

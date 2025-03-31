@@ -3,18 +3,18 @@ name: 标准
 title: 欢迎来到OpenStreetMap
 ---
 
-Bonjour,
+Hallo,
 
-Bienvenue dans le monde d'OpenStreetMap et félicitations pour avoir réalisé votre première modification.
+Willkommen in der Welt von OpenStreetMap und herzlichen Glückwunsch zu deiner ersten Bearbeitung.
 
-Le monde est vaste, des océans et montagnes à l'échelle planétaire, jusqu'aux ruelles et magasins de proximité près de chez vous. Lorsqu'ils sont enregistrés, ces lieux deviennent des repères pour les explorateurs. De la carte "Kunyu Wanguo Quantu" à la carte numérique détaillée d'aujourd'hui, l'utilisation des cartes devient de plus en plus pratique.
+Die Welt ist weit, von den Ozeanen und Bergen im planetarischen Maßstab bis hin zu den Gassen und Geschäften in deiner Nähe. Wenn sie aufgezeichnet werden, werden diese Orte zu Wegweisern für Entdecker. Von der "Kunyu Wanguo Quantu" bis zu den heutigen detaillierten digitalen Karten wird die Nutzung von Karten immer bequemer.
 
-OpenStreetMap est une plateforme ouverte. Vous êtes libre de les utiliser de manière créative grâce aux données géographiques open-source fournies par des bénévoles.
+OpenStreetMap ist eine offene Plattform. Du kannst diese geographischen Daten, die von Freiwilligen als Open-Source zur Verfügung gestellt werden, kreativ und frei nutzen.
 
-Votre première modification pourrait se trouver à l'école, dans un quartier, le long d'une voie ferrée ou à n'importe quel endroit qui vous intéresse. En tout cas, gardez votre enthousiasme et nous espérons que vous apprécierez partager vos connaissances uniques de votre région.
+Deine erste Bearbeitung könnte sich in einer Schule, einem Viertel, entlang einer Eisenbahn oder an jedem anderen Ort befinden, der dich interessiert. Auf jeden Fall bitten wir dich, deine Begeisterung zu bewahren und hoffen, dass du Spaß daran hast, dein einzigartiges Wissen über deine Region zu teilen.
 
-Nous vous souhaitons de profiter de ce processus et de vous amuser !
+Wir wünschen dir viel Freude bei diesem Prozess und Spaß dabei!
 
-Guide de modification
+Bearbeitungsleitfaden
 
-Ceci est un message automatisé envoyé par la communauté locale OSMChina via l'outil de bienvenue.
+Dies ist eine automatisierte Nachricht, die von der lokalen Community OSMChina über das Willkommens-Tool versendet wurde.

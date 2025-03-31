@@ -6,12 +6,9 @@
 
 ## Serverless服务
 
-目前我们存在 **```2```** 台Serverless服务
+目前我们存在 **```1```** 台Serverless服务
 
 + [osmchina.github.io](osmchina.github.io)
-+ [osmchina.github.io/OSMChina-NextOSM](osmchina.github.io/OSMChina-NextOSM)
-
-该服务器的角色为：主页
 
 ## CDN和DNS
 
