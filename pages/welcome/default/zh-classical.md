@@ -3,6 +3,12 @@ name: 标准
 title: 谨贺初涉OpenStreetMap
 ---
 
+## 谨贺初涉OpenStreetMap
+
+###### [首页](../../../README.md)/[欢迎信](../welcome_letter.md)/**文言文**
+
+<hr/>
+
 [简体中文](https://osmchina.org/pages/welcome/default/zh-Hans.html) | **文言文** | [English](https://osmchina.org/pages/welcome/default/en.html) | [日本語](https://osmchina.org/pages/welcome/default/ja.html) | [Français](https://osmchina.org/pages/welcome/default/fr.html) | [Deutsch](https://osmchina.org/pages/welcome/default/de.html)
 
 <hr/>
@@ -51,5 +57,5 @@ OpenStreetMap 为一开放之平台，君可自由发挥，纵横运用，尽展
 
 * **邮件列表**：[talk-cn@openstreetmap.org](mailto:talk-cn@openstreetmap.org) (惟 QQ 邮箱时或不畅)
 
- 顺颂
+ 顺颂<br/>
 时祺

@@ -3,6 +3,12 @@ name: 标准
 title: Willkommen bei OpenStreetMap
 ---
 
+## Willkommen bei OpenStreetMap
+
+###### [首页](../../../README.md)/[欢迎信](../welcome_letter.md)/**Deutsch**
+
+<hr/>
+
 [简体中文](https://osmchina.org/pages/welcome/default/zh-Hans.html) | [文言文](https://osmchina.org/pages/welcome/default/zh-classical.html) | [English](https://osmchina.org/pages/welcome/default/en.html) | [日本語](https://osmchina.org/pages/welcome/default/ja.html) | [Français](https://osmchina.org/pages/welcome/default/fr.html) | **Deutsch**
 
 <hr/>
