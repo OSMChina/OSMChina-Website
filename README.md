@@ -20,7 +20,7 @@
 
 ## OSPP
 
-关于OSPP相关内容和历届参与的项目介绍，可见[OSPP专题页面](/pages/foss/ospp.md)。
+关于OSPP相关内容和历届参与的项目介绍，可见[OSPP专题页面](/pages/foss/ospp/ospp.md)。
 
 ## 介绍
 
