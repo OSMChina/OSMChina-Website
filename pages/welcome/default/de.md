@@ -19,6 +19,26 @@ Deine erste Bearbeitung könnte sich in einer Schule, einem Viertel, entlang ein
 
 Wir wünschen dir viel Freude bei diesem Prozess und Spaß dabei!
 
-Bearbeitungsleitfaden
+### Bearbeitungsleitfaden
 
 Dies ist eine automatisierte Nachricht, die von der lokalen Community OSMChina über das Willkommens-Tool versendet wurde.
+
+Bevor Sie mit weiteren Bearbeitungen fortfahren, lesen Sie bitte die folgenden Richtlinien. Sie sind hilfreich für Ihre Bearbeitungen :
+
+* [OSMWiki Zh-hans:中华人民共和国 (Volksrepublik China)](https://wiki.openstreetmap.org/wiki/Zh-hans:%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)
+
+* [OSMWiki Zh-hans:中国标注指南 (China Tagging-Richtlinien)](https://wiki.openstreetmap.org/wiki/Zh-hans:%E4%B8%AD%E5%9B%BD%E6%A0%87%E6%B3%A8%E6%8C%87%E5%8D%97)
+
+* [OSMWiki Zh-hans:帮助 (Hilfe)](https://wiki.openstreetmap.org/wiki/Zh-hans:%E5%B8%AE%E5%8A%A9)
+
+### Kontaktinformationen
+
+Sie können unserer ständigen Austauschplattform beitreten, um mit anderen Freunden Themen zur Kartenbearbeitung zu diskutieren.
+
+* **Webseite**：[osmchina.org](https://osmchina.org)
+
+* **Telegram**：[t.me/osmchina](https://t.me/osmchina)
+
+* **Matrix**：[osmchina:matrix.org](https://matrix.to/#/#osmchina:matrix.org) (Schlechte Verfügbarkeit)
+
+* **Mailingliste**：[talk-cn@openstreetmap.org](mailto:talk-cn@openstreetmap.org)

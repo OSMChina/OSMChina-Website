@@ -23,8 +23,23 @@ OpenStreetMapは開かれたプラットフォームです。貴方は自由に�
 
 このメッセージは、地域のコミュニティOSMChinaより、歓迎ツールを使用して自動送信されたものです。
 
-* [OSMWiki Zh-hans:中华人民共和国](https://wiki.openstreetmap.org/wiki/Zh-hans:%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)
+編集を続ける前に、以下の規範をお読みいただければと思います。それらはあなたの編集に役立ちます：
 
-* [OSMWiki Zh-hans:中国标注指南](https://wiki.openstreetmap.org/wiki/Zh-hans:%E4%B8%AD%E5%9B%BD%E6%A0%87%E6%B3%A8%E6%8C%87%E5%8D%97)
+* [OSMWiki Zh-hans:中华人民共和国 (中華人民共和国)](https://wiki.openstreetmap.org/wiki/Zh-hans:%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)
 
-* [OSMWiki Zh-hans:帮助](https://wiki.openstreetmap.org/wiki/Zh-hans:%E5%B8%AE%E5%8A%A9)
+* [OSMWiki Zh-hans:中国标注指南 (中国タグ付けガイドライン)](https://wiki.openstreetmap.org/wiki/Zh-hans:%E4%B8%AD%E5%9B%BD%E6%A0%87%E6%B3%A8%E6%8C%87%E5%8D%97)
+
+* [OSMWiki Zh-hans:帮助 (ヘルプ)](https://wiki.openstreetmap.org/wiki/Zh-hans:%E5%B8%AE%E5%8A%A9)
+
+
+### 連絡先情報
+
+あなたは、地図編集に関する話題を他の友人と一緒に議論するために、私たちの常設交流プラットフォームに参加することができます。
+
+* **ウェブサイト**：[osmchina.org](https://osmchina.org)
+
+* **Telegram**：[t.me/osmchina](https://t.me/osmchina)
+
+* **Matrix**：[osmchina:matrix.org](https://matrix.to/#/#osmchina:matrix.org) (利用可能性が悪い)
+
+* **メーリングリスト**：[talk-cn@openstreetmap.org](mailto:talk-cn@openstreetmap.org)
