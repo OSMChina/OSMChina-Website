@@ -1,12 +1,8 @@
-# 服务器状态
+![](https://osmchina.oss-accelerate.aliyuncs.com/static/probe.homepage.pages.hardware.hardware_overview.youwenttoasecretplace.jpg)
 
-## 服务器
+## 服务器状态
 
-目前我们存在 **```0```** 台服务器
-
-## Serverless服务
-
-目前我们存在 **```1```** 台Serverless服务
+目前我们存在 **```0```** 台服务器， **```1```** 台Serverless服务
 
 + [osmchina.github.io](osmchina.github.io)
 

@@ -1,3 +1,5 @@
+![](https://osmchina.oss-accelerate.aliyuncs.com/static/probe.homepage.pages.hardware.techinfo.azhdaha.youwenttoasecretplace.jpg)
+
 ## Azhdaha
 
 ### Basic

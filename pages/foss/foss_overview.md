@@ -10,7 +10,7 @@
 
 <summary>418 I'm not a Teapot</summary>
 
-<h3>geo-yuheng</h3>
+<h3><a href="project/geo-yuheng.html">geo-yuheng</a></h3>
 
 <code>geo-yuheng</code> 是OSMChina孵化并试图独立运作的一个Python Package。这个库旨在……
 

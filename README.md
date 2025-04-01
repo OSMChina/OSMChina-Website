@@ -39,16 +39,17 @@
 
 ## 联系我们
 
-* Telegram: [t.me/osmchina](https://t.me/osmchina)
-* GitHub: [github.com/OSMChina](https://github.com/OSMChina)
-* Email: ~~[admin@osmchina.org](mailto:admin@osmchina.org)~~ （邮箱可用性不佳，推荐向 [talk-cn](https://lists.openstreetmap.org/listinfo/talk-cn) 发送邮件）
-* Martix: ~~[#osmchina:matrix.org](https://matrix.to/#/#osmchina:matrix.org)~~
-* Twitter: ~~[@OSMChina](https://twitter.com/osmchina)~~ （可用性不佳）
-* Mastodon: [@osmchina@en.osm.town](https://en.osm.town/@osmchina)
-* Weibo: None
-* Facebook: None
-* Youtube: None
-* http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4sl7GwgEK0Ob4qfOxCEqclHLEPkTYf79&authKey=kDSWFzYoN3srT6MGtmujZ20R3f1jjSd%2BKpD0bTwovTrOPTSFoCwikEVX9KeKif9R&noverify=0&group_code=614385455
+* **Telegram**: [t.me/osmchina](https://t.me/osmchina)
+* **GitHub**: [github.com/OSMChina](https://github.com/OSMChina)
+* **Email**: ~~[admin@osmchina.org](mailto:admin@osmchina.org)~~ （邮箱可用性不佳，推荐向 [talk-cn](https://lists.openstreetmap.org/listinfo/talk-cn) 邮件列表发送邮件）
+* **Martix**: ~~[#osmchina:matrix.org](https://matrix.to/#/#osmchina:matrix.org)~~
+* **QQ群**: 详见[社区列表](/pages/community/community_overview.md)
+
+## 社交媒体
+
+* **Twitter**: ~~[@OSMChina](https://twitter.com/osmchina)~~ （可用性不佳）
+* **Mastodon**: [@osmchina@en.osm.town](https://en.osm.town/@osmchina)
+* **Weibo**/**Facebook**/**YouTube**/**TikTok**: **None**
 
 ## FOSSA License Status
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOSMChina%2FOSMChina-Website.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOSMChina%2FOSMChina-Website?ref=badge_shield)<br/>

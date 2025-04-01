@@ -1,3 +1,5 @@
+![](https://osmchina.oss-accelerate.aliyuncs.com/static/probe.homepage.pages.hardware.name.azhdaha.youwenttoasecretplace.jpg)
+
 ## Azhdaha
 
 Azhdaha名字来源是中国游戏厂商米哈游创作的多人在线RPG游戏《原神》中虚构出的一头龙。

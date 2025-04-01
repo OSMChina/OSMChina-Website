@@ -1,6 +1,6 @@
+![](https://osmchina.oss-accelerate.aliyuncs.com/static/probe.homepage.pages.about_us.friendly_link.youwenttoasecretplace.jpg)
+
 ## 友情链接
-
-
 
 收录原则：但凡是和OSM有关的，都可以添加到这里来，且不需要所有者申请，任何人都可申请向这里添加友链
 
