@@ -1,9 +1,13 @@
 ---
 name: 标准
-title: 欢迎来到OpenStreetMap
+title: OpenStreetMapへようこそ
 ---
 
-こんにちは、
+[简体中文](https://osmchina.org/pages/welcome/default/zh-Hans.html) | [文言文](https://osmchina.org/pages/welcome/default/zh-classical.html) | [English](https://osmchina.org/pages/welcome/default/en.html) | **日本語** | [Français](https://osmchina.org/pages/welcome/default/fr.html) | [Deutsch](https://osmchina.org/pages/welcome/default/de.html)
+
+<hr/>
+
+こんにちは、{{ mapper.displayName }}
 
 OpenStreetMapの世界へようこそ。そして、初めての編集を完了されたこと、おめでとうございます。
 
@@ -15,6 +19,12 @@ OpenStreetMapは開かれたプラットフォームです。貴方は自由に�
 
 この過程を楽しみ、楽しさを見つけていただけることを願っております。
 
-編集ガイド
+### 編集ガイド
 
 このメッセージは、地域のコミュニティOSMChinaより、歓迎ツールを使用して自動送信されたものです。
+
+* [OSMWiki Zh-hans:中华人民共和国](https://wiki.openstreetmap.org/wiki/Zh-hans:%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)
+
+* [OSMWiki Zh-hans:中国标注指南](https://wiki.openstreetmap.org/wiki/Zh-hans:%E4%B8%AD%E5%9B%BD%E6%A0%87%E6%B3%A8%E6%8C%87%E5%8D%97)
+
+* [OSMWiki Zh-hans:帮助](https://wiki.openstreetmap.org/wiki/Zh-hans:%E5%B8%AE%E5%8A%A9)

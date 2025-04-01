@@ -45,6 +45,7 @@
 * Weibo: None
 * Facebook: None
 * Youtube: None
+* http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4sl7GwgEK0Ob4qfOxCEqclHLEPkTYf79&authKey=kDSWFzYoN3srT6MGtmujZ20R3f1jjSd%2BKpD0bTwovTrOPTSFoCwikEVX9KeKif9R&noverify=0&group_code=614385455
 
 ## FOSSA License Status
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOSMChina%2FOSMChina-Website.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOSMChina%2FOSMChina-Website?ref=badge_shield)<br/>

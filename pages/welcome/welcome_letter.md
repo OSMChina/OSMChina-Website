@@ -6,15 +6,15 @@
 
 ### 面向所有Mapper的
 
-| zh-Hans | zh-Hant | zh-classical | en |
+| `zh-Hans` | `zh-Hant` | `zh-classical` | `en` |
 | ---- | ---- | ---- | ---- |
 | [简体中文](/default/zh-Hans.md) | 繁體中文 | [文言](/default/zh-classical.md) | [English](/default/en.md) |
 
-| de | fr | ja |
+| `de` | `fr` | `ja` |
 | ---- | ---- | ---- |
 | [Deutsch](/default/de.md) | [Français](/default/fr.md) | [日本語](/default/ja.md) |
 
-* 注意： 文言文版一般不会对新人发放
+* 注意： 文言文版一般不会对新人发放，仅作参考用途
 
 ### 面向破坏者的
 

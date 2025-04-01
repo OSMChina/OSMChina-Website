@@ -1,9 +1,13 @@
 ---
 name: 标准
-title: 欢迎来到OpenStreetMap
+title: Willkommen bei OpenStreetMap
 ---
 
-Hallo,
+[简体中文](https://osmchina.org/pages/welcome/default/zh-Hans.html) | [文言文](https://osmchina.org/pages/welcome/default/zh-classical.html) | [English](https://osmchina.org/pages/welcome/default/en.html) | [日本語](https://osmchina.org/pages/welcome/default/ja.html) | [Français](https://osmchina.org/pages/welcome/default/fr.html) | **Deutsch**
+
+<hr/>
+
+Hallo, {{ mapper.displayName }}
 
 Willkommen in der Welt von OpenStreetMap und herzlichen Glückwunsch zu deiner ersten Bearbeitung.
 
