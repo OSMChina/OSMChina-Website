@@ -3,13 +3,13 @@ name: 标准
 title: Welcome to OpenStreetMap
 ---
 
-## Welcome to OpenStreetMap
-
 ###### [首页](../../../README.md)/[欢迎信](../welcome_letter.md)/**English**
 
 <hr/>
 
-[简体中文](https://osmchina.org/pages/welcome/default/zh-Hans.html) | [文言文](https://osmchina.org/pages/welcome/default/zh-classical.html) | **English** | [日本語](https://osmchina.org/pages/welcome/default/ja.html) | [Français](https://osmchina.org/pages/welcome/default/fr.html) | [Deutsch](https://osmchina.org/pages/welcome/default/de.html)
+## Welcome to OpenStreetMap
+
+| [简体中文](https://osmchina.org/pages/welcome/default/zh-Hans.html) | [文言文](https://osmchina.org/pages/welcome/default/zh-classical.html) | **English** | [日本語](https://osmchina.org/pages/welcome/default/ja.html) | [Français](https://osmchina.org/pages/welcome/default/fr.html) | [Deutsch](https://osmchina.org/pages/welcome/default/de.html) |
 
 <hr/>
 
@@ -27,7 +27,7 @@ We wish you enjoy the process and have fun!
 
 ### Editing Guide
 
-This is an automated message sent by the local community OSMChina using the welcome tool.
+This is an automated message sent by the local community OSMChina using the [welcome tool](https://welcome.osm.be/).
 
 Before you start editing, we hope you can take a few minutes to browse the following reference standards:
 

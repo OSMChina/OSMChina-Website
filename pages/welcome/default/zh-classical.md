@@ -3,13 +3,13 @@ name: 标准
 title: 谨贺初涉OpenStreetMap
 ---
 
-## 谨贺初涉OpenStreetMap
-
 ###### [首页](../../../README.md)/[欢迎信](../welcome_letter.md)/**文言文**
 
 <hr/>
 
-[简体中文](https://osmchina.org/pages/welcome/default/zh-Hans.html) | **文言文** | [English](https://osmchina.org/pages/welcome/default/en.html) | [日本語](https://osmchina.org/pages/welcome/default/ja.html) | [Français](https://osmchina.org/pages/welcome/default/fr.html) | [Deutsch](https://osmchina.org/pages/welcome/default/de.html)
+## 谨贺初涉OpenStreetMap
+
+| [简体中文](https://osmchina.org/pages/welcome/default/zh-Hans.html) | **文言文** | [English](https://osmchina.org/pages/welcome/default/en.html) | [日本語](https://osmchina.org/pages/welcome/default/ja.html) | [Français](https://osmchina.org/pages/welcome/default/fr.html) | [Deutsch](https://osmchina.org/pages/welcome/default/de.html) |
 
 <hr/>
 
@@ -27,7 +27,7 @@ OpenStreetMap 为一开放之平台，君可自由发挥，纵横运用，尽展
 
 ### 编辑之略
 
-此信由本地社群「OSMChina」凭欢迎工具自动传达，聊表敬意。
+此信由本地社群「OSMChina」凭[欢迎工具](https://welcome.osm.be/?l=zh_CN)自动传达，聊表敬意。
 
 倘若君欲更进一步，望抽空片刻，先阅下列典籍，以资参考：
 

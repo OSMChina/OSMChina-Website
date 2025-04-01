@@ -3,6 +3,16 @@ name: 新手或破坏者
 title: 欢迎来到OpenStreetMap
 ---
 
+###### [首页](../../../README.md)/[欢迎信](../welcome_letter.md)/**简体中文**
+
+<hr/>
+
+## 欢迎来到OpenStreetMap
+
+| [**简体中文**](https://osmchina.org/pages/welcome/vandalism/zh-Hans.html) |
+
+<hr/>
+
 您好，{{ mapper.displayName }}
 
 欢迎来到OpenStreetMap世界，我们注意到您做出了一些编辑，恭喜！

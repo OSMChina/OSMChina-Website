@@ -3,13 +3,13 @@ name: 标准
 title: 欢迎来到OpenStreetMap
 ---
 
-## 欢迎来到OpenStreetMap
-
 ###### [首页](../../../README.md)/[欢迎信](../welcome_letter.md)/**简体中文**
 
 <hr/>
 
-**简体中文** | [文言文](https://osmchina.org/pages/welcome/default/zh-classical.html) | [English](https://osmchina.org/pages/welcome/default/en.html) | [日本語](https://osmchina.org/pages/welcome/default/ja.html) | [Français](https://osmchina.org/pages/welcome/default/fr.html) | [Deutsch](https://osmchina.org/pages/welcome/default/de.html)
+## 欢迎来到OpenStreetMap
+
+| **简体中文** | [文言文](https://osmchina.org/pages/welcome/default/zh-classical.html) | [English](https://osmchina.org/pages/welcome/default/en.html) | [日本語](https://osmchina.org/pages/welcome/default/ja.html) | [Français](https://osmchina.org/pages/welcome/default/fr.html) | [Deutsch](https://osmchina.org/pages/welcome/default/de.html) |
 
 <hr/>
 
@@ -27,7 +27,7 @@ OpenStreetMap 是一个开放的平台。您可以自由地，创造性地去使
 
 ### 编辑指南
 
-这是一封由OSMChina本地社区借助欢迎工具发送的欢迎信。
+这是一封由OSMChina本地社区借助[欢迎工具](https://welcome.osm.be/?l=zh_CN)发送的欢迎信。
 
 希望在您进行更多编辑前，能阅读下列规范。它们对您的编辑很有帮助：
 
