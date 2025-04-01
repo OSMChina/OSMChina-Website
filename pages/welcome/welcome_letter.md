@@ -1,8 +1,12 @@
-## 欢迎信
-
 ###### [首页](../../README.md)/**欢迎信**
 
-----------
+![](https://osmchina.oss-accelerate.aliyuncs.com/static/probe.homepage.pages.welcome.welcome_letter.jpg)
+
+<hr/>
+
+## 欢迎信
+
+<hr/>
 
 ### 面向所有Mapper的
 

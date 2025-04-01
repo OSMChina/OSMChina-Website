@@ -5,6 +5,8 @@ title: 欢迎来到OpenStreetMap
 
 ###### [首页](../../../README.md)/[欢迎信](../welcome_letter.md)/**简体中文**
 
+![](https://osmchina.oss-accelerate.aliyuncs.com/static/probe.homepage.pages.welcome.default.zh-Hans.jpg)
+
 <hr/>
 
 ## 欢迎来到OpenStreetMap

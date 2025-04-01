@@ -1,8 +1,8 @@
+###### [首页](../../../README.md)/[开源](../foss_overview.md)/**OSPP**
+
+<hr/>
+
 ## OSPP
-
-###### [首页](../../../README.md)/[开源](../overview.md)/**OSPP**
-
-----------
 
 ### 2024
 
@@ -17,6 +17,8 @@
 目前进度：
 
 ![](https://osmchina.oss-accelerate.aliyuncs.com/static/website/photo_2025-03-10_00-29-21.jpg)
+
+更多可见 2024年总结页面 （WIP）
 
 ### 2025
 

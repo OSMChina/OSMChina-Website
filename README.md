@@ -12,7 +12,7 @@
 
 ## 导航
 
-| [团队](/pages/team/team_overview.md) | [开源](/pages/foss/overview.md) | [服务器状态](/pages/hardware/hardware_overview.md) | [捐赠我们](/pages/about_us/donate.md) |
+| [团队](/pages/team/team_overview.md) | [开源](/pages/foss/foss_overview.md) | [服务器状态](/pages/hardware/hardware_overview.md) | [捐赠我们](/pages/about_us/donate.md) |
 | ---- | ---- | ---------- | ---------- |
 | **0**个活跃团队 | **0**个活跃项目 | **0**台在线VPS | 从未开通 |
 
@@ -28,7 +28,7 @@
 
 中国区域在OSM Wiki上的页面为 [wiki.openstreetmap.org/wiki/Zh-hans:中华人民共和国](https://wiki.openstreetmap.org/wiki/Zh-hans:中华人民共和国)
 
-感谢[新用户欢迎平台](https://github.com/osmbe/osm-welcome-tool)的支持，您亦可查看欢迎信的[本地存档](/pages/welcome/welcome_letter.md)。
+感谢[新用户欢迎平台](https://github.com/osmbe/osm-welcome-tool)的支持，您亦可查看[欢迎信存档](/pages/welcome/welcome_letter.md)。
 
 目前暂时采用Github Pages的形式来进行页面生成，未来会考虑由专机托管主页。
 
