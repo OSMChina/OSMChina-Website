@@ -23,3 +23,7 @@
 <code>busfensi</code> 目前已经上线，可访问 <a href="https://editor.osmchina.org"><code>editor.osmchina.org</code></a> 体验
 
 </details>
+
+## FOSSA License Status
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOSMChina%2FOSMChina-Website.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOSMChina%2FOSMChina-Website?ref=badge_shield)<br/>
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOSMChina%2FOSMChina-Website.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FOSMChina%2FOSMChina-Website?ref=badge_large)

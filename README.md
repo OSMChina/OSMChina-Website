@@ -50,7 +50,3 @@
 * **Twitter**: ~~[@OSMChina](https://twitter.com/osmchina)~~ （可用性不佳）
 * **Mastodon**: [@osmchina@en.osm.town](https://en.osm.town/@osmchina)
 * **Weibo**/**Facebook**/**YouTube**/**TikTok**: **None**
-
-## FOSSA License Status
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOSMChina%2FOSMChina-Website.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOSMChina%2FOSMChina-Website?ref=badge_shield)<br/>
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOSMChina%2FOSMChina-Website.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FOSMChina%2FOSMChina-Website?ref=badge_large)
