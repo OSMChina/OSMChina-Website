@@ -7,6 +7,8 @@ title: OpenStreetMapへようこそ
 
 <hr/>
 
+![](https://osmchina.oss-accelerate.aliyuncs.com/static/probe.homepage.pages.welcome.default.ja.jpg)
+
 ## OpenStreetMapへようこそ
 
 | [简体中文](https://osmchina.org/pages/welcome/default/zh-Hans.html) | [文言文](https://osmchina.org/pages/welcome/default/zh-classical.html) | [English](https://osmchina.org/pages/welcome/default/en.html) | **日本語** | [Français](https://osmchina.org/pages/welcome/default/fr.html) | [Deutsch](https://osmchina.org/pages/welcome/default/de.html) |

@@ -2,6 +2,8 @@
 
 <hr/>
 
+![](https://osmchina.oss-accelerate.aliyuncs.com/static/probe.homepage.pages.foss.ospp.ospp.jpg)
+
 ## OSPP
 
 ### 2024

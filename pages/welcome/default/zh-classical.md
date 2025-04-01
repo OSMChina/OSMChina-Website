@@ -7,6 +7,8 @@ title: 谨贺初涉OpenStreetMap
 
 <hr/>
 
+![](https://osmchina.oss-accelerate.aliyuncs.com/static/probe.homepage.pages.welcome.default.zh-classical.jpg)
+
 ## 谨贺初涉OpenStreetMap
 
 | [简体中文](https://osmchina.org/pages/welcome/default/zh-Hans.html) | **文言文** | [English](https://osmchina.org/pages/welcome/default/en.html) | [日本語](https://osmchina.org/pages/welcome/default/ja.html) | [Français](https://osmchina.org/pages/welcome/default/fr.html) | [Deutsch](https://osmchina.org/pages/welcome/default/de.html) |

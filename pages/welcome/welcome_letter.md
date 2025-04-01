@@ -1,8 +1,8 @@
 ###### [首页](../../README.md)/**欢迎信**
 
-![](https://osmchina.oss-accelerate.aliyuncs.com/static/probe.homepage.pages.welcome.welcome_letter.jpg)
-
 <hr/>
+
+![](https://osmchina.oss-accelerate.aliyuncs.com/static/probe.homepage.pages.welcome.welcome_letter.jpg)
 
 ## 欢迎信
 

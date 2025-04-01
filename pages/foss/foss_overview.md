@@ -2,6 +2,8 @@
 
 <hr/>
 
+![](https://osmchina.oss-accelerate.aliyuncs.com/static/probe.homepage.pages.foss.foss_overview.jpg)
+
 ## FOSS~~社区活动与贡献~~
 
 <details>
