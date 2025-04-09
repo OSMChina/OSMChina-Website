@@ -9,6 +9,8 @@ title: 欢迎来到OpenStreetMap
 
 ![](https://osmchina.oss-accelerate.aliyuncs.com/static/probe.homepage.pages.welcome.default.zh-Hans.jpg)
 
+<p><big><big>请注意，这并非OSM官网而是社区网站，OSM官网为<a href="https://openstreetmap.org">https://openstreetmap.org</a></big></big></p>
+
 ## 欢迎来到OpenStreetMap
 
 | **简体中文** | [文言文](https://osmchina.org/pages/welcome/default/zh-classical.html) | [English](https://osmchina.org/pages/welcome/default/en.html) | [日本語](https://osmchina.org/pages/welcome/default/ja.html) | [Français](https://osmchina.org/pages/welcome/default/fr.html) | [Deutsch](https://osmchina.org/pages/welcome/default/de.html) |
