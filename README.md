@@ -8,6 +8,13 @@
 
 ![](https://osmchina.oss-accelerate.aliyuncs.com/static/probe.jpg)
 
+<hr/>
+<p><big><big>
+请注意，这并非OSM官网而是社区网站<br/>
+OSM官网为<small><a href="https://openstreetmap.org">https://openstreetmap.org</a></small>
+</big></big></p>
+<hr/>
+
 <!-- 
 
 ## 导航
