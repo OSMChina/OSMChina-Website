@@ -13,6 +13,8 @@ title: 欢迎来到OpenStreetMap
 请注意，这并非OSM官网而是社区网站<br/>
 OSM官网为<a href="https://openstreetmap.org">https://openstreetmap.org</a>
 </big></big></b></p>
+此处列出的沟通方式亦无法满足“数据下载”、“瓦片下载”或“课设辅导”等需求。<br/>
+如您并非OSM编辑者但通过搜索引擎找到了本站点，可能是搜索引擎错误将您导向了这里。您需要的是尝试访问OSM官方Wiki查阅文档或geofabric等镜像站下载数据。
 
 ## 欢迎来到OpenStreetMap
 
