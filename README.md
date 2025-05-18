@@ -13,9 +13,6 @@
 请注意，这并非OSM官网而是社区网站<br/>
 OSM官网为<a href="https://openstreetmap.org">https://openstreetmap.org</a>
 </big></big></b></p>
-<p><big>
-此外， osm.mapplus.cn 并非OSM中国社区网站，也非OSM官方网站，您在这个站点做出的所有编辑都不会被同步到OSM。
-</big></p>
 
 <hr/>
 
