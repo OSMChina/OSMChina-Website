@@ -29,9 +29,11 @@ OSM官网为<a href="https://openstreetmap.org">https://openstreetmap.org</a>
 
 -->
 
-## OSPP
+## FOSS
 
 关于OSPP相关内容和历届参与的项目介绍，可见[OSPP专题页面](/pages/foss/ospp/ospp.md)。
+
+关于OSMChina公益项目，可见[社区公共服务](/pages/foss/charity/charity.md)。
 
 ## 介绍
 
