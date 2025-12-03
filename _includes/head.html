@@ -1,1 +1,66 @@
 <!-- Icons --><link rel="shortcut icon"  type="image/x-icon" href="/favicon.ico">
+<!-- Grayscale Mode Script -->
+<script>
+(function() {
+    // 检查页面内容中是否包含置灰模式注释
+    function checkGrayscaleMode() {
+        const pageContent = document.body.innerHTML;
+        
+        // 检查是否包含开启置灰的注释
+        if (pageContent.includes('<!-- GRAYSCALE_MODE: ON -->')) {
+            // 检查是否包含关闭置灰的注释（优先级更高）
+            if (pageContent.includes('<!-- GRAYSCALE_MODE: OFF -->')) {
+                return false;
+            }
+            return true;
+        }
+        return false;
+    }
+    
+    // 应用置灰效果
+    function applyGrayscale() {
+        // 创建样式元素
+        const style = document.createElement('style');
+        style.id = 'grayscale-mode-style';
+        style.textContent = `
+            .grayscale-mode {
+                filter: grayscale(100%) !important;
+                -webkit-filter: grayscale(100%) !important;
+                -moz-filter: grayscale(100%) !important;
+                -ms-filter: grayscale(100%) !important;
+                -o-filter: grayscale(100%) !important;
+            }
+            .grayscale-mode img,
+            .grayscale-mode video,
+            .grayscale-mode iframe {
+                filter: grayscale(100%) !important;
+                -webkit-filter: grayscale(100%) !important;
+                -moz-filter: grayscale(100%) !important;
+                -ms-filter: grayscale(100%) !important;
+                -o-filter: grayscale(100%) !important;
+            }
+        `;
+        document.head.appendChild(style);
+        
+        // 为html元素添加类名
+        document.documentElement.classList.add('grayscale-mode');
+        
+        // 添加控制台提示
+        console.log('📴 页面已进入置灰模式（哀悼模式）');
+    }
+    
+    // 页面加载完成后检查并应用置灰效果
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', function() {
+            if (checkGrayscaleMode()) {
+                applyGrayscale();
+            }
+        });
+    } else {
+        // DOM已经加载完成
+        if (checkGrayscaleMode()) {
+            applyGrayscale();
+        }
+    }
+})();
+</script>
