@@ -1,5 +1,9 @@
 # 欢迎远方来客
 
+<!-- GRAYSCALE_MODE: ON -->
+<!-- 注释：添加此注释可开启页面置灰模式（哀悼模式） -->
+<!-- 如需关闭，请使用：GRAYSCALE_MODE: OFF -->
+
 <a href="https://wiki.openstreetmap.org/wiki/Zh-hans:中华人民共和国"><img src="https://wiki.openstreetmap.org/w/images/thumb/1/10/OpenStreetMap_PRC.svg/300px-OpenStreetMap_PRC.svg.png" alt="OSMChina 欢迎远道来客" width=100px></a>
 
 > **依照中国大陆相关法律法规，地图服务暂时停止提供。**

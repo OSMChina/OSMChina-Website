@@ -1,0 +1,5 @@
+* linguist-language= 
+*.rb linguist-language= 
+*.erb linguist-language= 
+*.haml linguist-language= 
+*.slim linguist-language= 
