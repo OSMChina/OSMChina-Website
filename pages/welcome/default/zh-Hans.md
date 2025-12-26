@@ -54,7 +54,7 @@ OpenStreetMap 是一个开放的平台。您可以自由地，创造性地去使
 * **网站**：[osmchina.org](https://osmchina.org)
 
 * **QQ群**： (**部分群需提供OSM账号**)
-* * 全国大群 ([290278518](https://jq.qq.com/?_wv=1027&k=m2gOM4h3))
+* * 全国大群 (<del>[290278518](https://jq.qq.com/?_wv=1027&k=m2gOM4h3)</del> 推荐 983567587 )
 * * 京津冀地区群（[934831605](https://jq.qq.com/?_wv=1027&k=96zzMIMd))
 * * 山东地区群 ([614385455](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4sl7GwgEK0Ob4qfOxCEqclHLEPkTYf79&authKey=kDSWFzYoN3srT6MGtmujZ20R3f1jjSd%2BKpD0bTwovTrOPTSFoCwikEVX9KeKif9R&noverify=0&group_code=614385455))
 * * 东北地区群 ([559398645](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=UNAmCJw1pRME0sToEMeUx6pFWUJJ8T3I&authKey=2mBNe9F80qvAcqAKmPIdiSXEMUOV4Oht0V9LsGehKYDNJamtgepk70MJU54sv3pu&noverify=0&group_code=559398645))

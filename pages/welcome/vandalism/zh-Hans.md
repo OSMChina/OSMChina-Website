@@ -49,6 +49,6 @@ title: 欢迎来到OpenStreetMap
 
 * Telegram群：[t.me/osmchina](https://t.me/osmchina)
 
-* QQ群：290278518
+* QQ群：983567587
 
 * 邮件列表：[talk-cn@openstreetmap.org](mailto:talk-cn@openstreetmap.org) (QQ邮箱可能无法正常发信)
